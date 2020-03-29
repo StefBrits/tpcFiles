@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55fe429d-5ecd-4fad-b7ed-12a252132c2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoaHQCpT2gfahlOP0JbRZOAO8o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="FileTransferTCP" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerCaller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerCaller" />
+      <module name="FileTransferTCP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ServerCaller" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ServerCaller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55fe429d-5ecd-4fad-b7ed-12a252132c2b" name="Default Changelist" comment="" />
+      <created>1585507812051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585507812051</updated>
+      <workItem from="1585507816144" duration="5247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="91" key="#Project_Structure" timestamp="1585507824567">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="722" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1585507824567" />
+    <state x="447" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585510866979">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="447" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585510866979" />
+    <state x="957" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1585508045244">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="957" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1585508045244" />
+    <state width="723" height="166" key="GridCell.Tab.0.bottom" timestamp="1585513804102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="166" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585513804102" />
+    <state width="723" height="166" key="GridCell.Tab.0.center" timestamp="1585513804102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="166" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585513804102" />
+    <state width="723" height="166" key="GridCell.Tab.0.left" timestamp="1585513804102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="166" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585513804102" />
+    <state width="723" height="166" key="GridCell.Tab.0.right" timestamp="1585513804102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="166" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585513804102" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1585514372601">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585514372601" />
+  </component>
+</project>
